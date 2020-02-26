@@ -1,0 +1,2569 @@
+{
+  "settings": {
+    "name": "Site-02-25_1549",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#009543",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#78b82e",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Ubuntu",
+        "subtitleFont": "Lora",
+        "textFont": "Titillium Web",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#033b00",
+        "#011000",
+        "#009543",
+        "#78b82e",
+        "#ccff90",
+        "#d9ffad",
+        "#f0ffe0"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.6",
+    "siteFonts": [],
+    "uniqCompNum": 50,
+    "versionPublish": "4.11.6",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Mouth Munchers  Foods",
+        "meta_descr": "Get the best of coconut extract as exact with a little more extra. This is Mouth Munchers Foods. Purchase our coconut oil, poundo, flour, mixed nuts, water, milk, bread, chin-chin  and flakes.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000100!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#011000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#009543!important"
+            },
+            ".innerEmail:hover, .innerPhone:hover": {
+              "color": "@primaryColor"
+            },
+            ".btn": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "15px"
+            },
+            "A": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#011000",
+            "socialButtons": "3",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\">Our Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mmpricelist.html#msg-box8-r\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-h\">Store Outlets</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-6\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mouthmuncherorder.html\">Order Now</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2-171x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "phone": "+234 · 703 · 937 · 1000",
+          "email": "order@mouthmunchersfoods.com",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "fa",
+              "link": "https://mobirise.com",
+              "name": "phone",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "FontAwesome"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "name": "mail",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "linecons"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "facebook",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "twitter",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "instagram",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "behance",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "pinterest",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMenu1",
+          "_anchor": "extMenu1-5"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/coconuts-wallpaper-gallery-1024x523.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "<br><span style=\"font-weight: normal;\">Mouth Munchers Foods</span>",
+          "text": "Enjoy pure extracts from the tropical coconut",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extShop1-f\" data-toolbar=\"-mbrBtnMove\">Go Shop</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-e",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "color": "#009543"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "center",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "title": "Our Products",
+          "meta": "Mouth Muncher Market",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-x"
+        },
+        {
+          "_styles": {
+            ".galleryItem h4:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li.active": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:before": {
+              "background": "@primaryColor"
+            },
+            ".min-toggle:hover, .max-toggle:hover": {
+              "background-color": "@primaryColor"
+            },
+            ".shop-title": {
+              "font-family": "@titleFont"
+            },
+            ".categories-titles .mbr-gallery-filter ul li": {
+              "font-family": "@titleFont"
+            },
+            ".max-input": {
+              "font-family": "@titleFont"
+            },
+            ".min-input": {
+              "font-family": "@titleFont"
+            },
+            ".item-title": {
+              "font-family": "@titleFont",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".item-subtitle": {
+              "font-family": "@subtitleFont",
+              "color": "#009543"
+            },
+            ".card-description": {
+              "font-family": "@textFont",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".shop-item-price": {
+              "font-family": "@titleFont",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "24px",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showSidebar": false,
+            "showSortButtons": false,
+            "showBestSellers": true,
+            "priceRange": true,
+            "filter": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "filterBgColor": false,
+            "fontHoverColor": "@primaryColor",
+            "mainTitle": "@titleFont",
+            "mainSubTitle": "@subtitleFont",
+            "mainText": "@textFont",
+            "images": [
+              {
+                "tags": "Awesome",
+                "bestSeller": false,
+                "itemTitle": "Coconut Poundo",
+                "itemSubtitle": "500g",
+                "itemDescription": "Coconut Poundo is a healthy meal made from fresh coconuts and a plant based binder. It is gluten free, light meal, low in carbohydrates, white and good for everyone looking for a healthier choice of swallow. Also suitable for vegan, ketogenic, paleo, grain free diet and most health conscious diets. It goes well with any soup of your choice such as Vegetables, Egusi, Afang, Edikaikong, Okro, Ewedu, Ogbono, etc.<br><br> Product code: <b>MMCP500</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "₦3,500",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"mouthmuncherorder.html#extHeader1-14\" class=\"btn btn-primary\">Buy Now</a>",
+                "image": "@PROJECT_PATH@/assets/images/mm%20poundo-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mm-poundo-800x600-800x600.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "onSale": false,
+                "active": false
+              },
+              {
+                "tags": "Wonderful",
+                "bestSeller": false,
+                "itemTitle": "Coconut Flakes Sweetened",
+                "itemSubtitle": "150g",
+                "itemDescription": "Mouthmunchers Coconut flakes is well dried to give a crunchy, tasty and sweet flakes with the natural taste of coconut still maintained. It is creamy, milky, rich and nutritious. It can be added to your cereal, as toppings on your yoghurt, ice cream, parfait, cakes and bakes or taken as a snack… Mouthmunchers coconut flakes; Taste the goodness in every crunch!<br><br> Product code: <b>MM1CF150S</b>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "₦800",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"mouthmuncherorder.html#extHeader1-14\" class=\"btn btn-primary\">Buy Now</a>",
+                "image": "@PROJECT_PATH@/assets/images/mm%20flakes%20sweet-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mm-flakes-sweet-800x600-800x600.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "itemTitle": "Coconut Flour",
+                "itemSubtitle": "500g",
+                "itemDescription": "Coconut flour is also a grain free flour high in fiber, low\n in carbohydrate and gluten free. It is highly nutritious and suitable for all your flour needs. It can be used to replace other wheat based flour in most recipies. Baking with coconut flour requires less flour as one third or quarter cup is used as against one cup of normal flour. It may also require more eggs or a binder.<div><br>Product code: <b>MM2CF500</b></div>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "₦3,000",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"mouthmuncherorder.html#extHeader1-14\" class=\"btn btn-primary\">Buy Now</a>",
+                "image": "@PROJECT_PATH@/assets/images/mm%20flour-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mm-flour-800x600-800x600.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "itemTitle": "Coconut Oil",
+                "itemSubtitle": "1 Litre",
+                "itemDescription": "Mouthmunchers 100% virgin cold pressed coconut oil is\n<div>made from fresh coconuts. It is pure, undiluted, crystal clear and all\n nutrient intact. Our process is natural thus making the oil pure and organic. It is edible thus can be used in your salad, cooking, baking, frying and others. It is also good on the hair and skin.</div><div><br> Product code: <b>MMCO1</b></div>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "₦6,000",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"mouthmuncherorder.html#extHeader1-14\" class=\"btn btn-primary\">Buy Now</a>",
+                "image": "@PROJECT_PATH@/assets/images/mm%20oil-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mm-oil-800x600-800x600.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": true,
+                "itemTitle": "Coconut Oil",
+                "itemSubtitle": "100ml",
+                "itemDescription": "<p>Mouthmunchers 100% virgin cold pressed coconut oil is\n</p><p>made from fresh coconuts. It is pure, undiluted, crystal clear and all nutrient intact. Our process is natural thus making the oil pure and organic. It is edible thus can be used in your salad, cooking, baking, frying and others. It is also good on the hair and skin.</p><p><br></p><p>\n</p><div>\n</div><div>Product code: <b>MMCO100</b></div><p></p>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "₦800",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy Now</a>",
+                "image": "@PROJECT_PATH@/assets/images/mm%20oil2-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mm-oil2-800x600-800x600.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "Wonderful",
+                "bestSeller": false,
+                "itemTitle": "Coconut Chin-Chin Bucket",
+                "itemSubtitle": "2.2kg",
+                "itemDescription": "Mouthmunchers coconut chinchin is a special\n coconut based chinchin. It is soft, rich, creamy, crunchy and just yummy! Gives you so much satisfaction in every bite that you may not get enough of it.<div><br> Product code: <b>MMCCB22</b></div>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "₦4,500",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy Now</a>",
+                "image": "@PROJECT_PATH@/assets/images/mm%20chin-chin%20bucket-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mm-chin-chin-bucket-800x600-800x600.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "itemTitle": "Coconut Chin-Chin Pack",
+                "itemSubtitle": "220g",
+                "itemDescription": "Mouthmunchers coconut chinchin is a special coconut based chinchin. It is soft, rich, creamy, crunchy and just yummy! Gives you so much satisfaction in every bite that you may not get enough of it.\r<div>\r</div><div>Product code: <b>MMCCP22</b></div>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "₦600",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy Now</a>",
+                "image": "@PROJECT_PATH@/assets/images/mm%20chin-chin%20pack-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mm-chin-chin-pack-800x600-800x600.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "bestSeller": false,
+                "itemTitle": "Coconut Water",
+                "itemSubtitle": "500ml",
+                "itemDescription": "Coconut water is a natural drink full of nutrients and<div>electrolytes. No sugar or preservatives added thus it makes a healthy drink\n for all. It is simply nourishing and rehydrating. Can be used in your smoothies, juices or enjoyed as it is. No additives or preservatives added.</div><div><br></div><div> Product code: <b>MMCW500</b></div>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "₦500",
+                "onsale": "-50%",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy Now</a>",
+                "image": "@PROJECT_PATH@/assets/images/mm%20water-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mm-water-800x600-800x600.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "title": "",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "title": "Muncher Market",
+          "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
+          "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Price: high to low</a>",
+          "filter_by_d": "<a class=\"btn btn-primary\">Default sorting</a>",
+          "price_range": "<a class=\"btn btn-primary filterPriceRange\">Filter</a>",
+          "price_range_reset": "<a class=\"btn btn-secondary\">Show all</a>",
+          "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
+          "allItem": "All",
+          "sidebar1": "Best Sellers",
+          "sidebar2": "Filter by price",
+          "sidebar3": "Product Categories",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extShop1",
+          "_anchor": "extShop1-f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "See All Products",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">VIEW NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-z",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showContacts": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showIcons": true,
+            "showForm": true,
+            "inverse": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extForm1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1,
+            "iconsColor": "#333333",
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">Go Shop</a>"
+          },
+          "title": "<span style=\"font-weight: normal;\">Become a Distributor</span>",
+          "title1": "Let's Talk&nbsp;",
+          "title2": "Visit our office",
+          "subTitle1": "Ready for a Munch sale?",
+          "subTitle2": "F2F for a B2B",
+          "text1": "Phone: 08155573039<br> Email: go@mouthmunchersfoods.com",
+          "text2": "No.8, Bamidele Avenue,\n<br>Osapa London, Lekki, Lagos.",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">JOIN THE MARKET</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/clipartkey-1614929-630x941.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "size": 0,
+              "class": "mbr-iconfont mbr-iconfont-header2 ",
+              "color": "@primaryColor"
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "speach-bubbles-9",
+              "family": "icon54-v2",
+              "active": true,
+              "size": 0,
+              "color": "#009543"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "office-2",
+              "family": "icon54-v2",
+              "active": true,
+              "size": 0,
+              "color": "#009543"
+            }
+          },
+          "form": {
+            "action": "mouthmunchers8@gmail.com",
+            "alerts": {
+              "success": "Thanks for reaching out! The Mouth Munchers Team will response to your inquiry within 2 working days."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm1",
+          "_anchor": "extForm1-6",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "H2": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".intro-box h4": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#011000",
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bp-vvv-faina-de-nuca-de-cocos-730x400.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.9"
+          },
+          "title": "Store Outlets",
+          "text": "Now available in stores near you",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#78b82e",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "left"
+            },
+            "H2": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "msg-box1-h"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showIcons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face5.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face1.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face6.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face2.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face3.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face4.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "OUR TEAM",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "title1": "Hubmart",
+          "subtitle1": "Adeola Odeku, V.I",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Adiba Stores",
+          "subtitle2": "Adeola Odeku, V.I",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Delis",
+          "subtitle3": "Adetokunbo Ademola, V.I",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Shoppers Delite",
+          "subtitle4": "V.I",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Hubmart",
+          "subtitle5": "Isaac John Street, G.R.A, Ikeja",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Edichart Stores",
+          "subtitle6": "Anthony",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "shopping-cart",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "map-marker",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "credit-card-alt",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-i",
+          "_styles": {
+            "H4": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showIcons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face5.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face1.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face6.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face2.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face3.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/face4.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "OUR TEAM",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "title1": "Oasis Stores",
+          "subtitle1": "Obafemi Awolowo Way,<br>Beside Sheraton Hotel, Ikeja",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Buy More Supermarket",
+          "subtitle2": "Joel Ogunnaike, G.R.A. Ikeja",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Shop<br>Perfect",
+          "subtitle3": "Ilupeju",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "The Indian<br>Bazaar",
+          "subtitle4": "Ilupeju",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "De Prince Stores",
+          "subtitle5": "Opposite Deeper Life Church, Gbagada",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Home<br>Affairs Stores",
+          "subtitle6": "Diya Street, Gbagada",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
+              "name": "instagram",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-j",
+          "_styles": {
+            "H4": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".card-block p": {
+              "font-size": "15px"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showBullets": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "2",
+            "slides": [
+              {
+                "active": true,
+                "text": "<p>Best chinchin ever, still enjoying my coconut flour.</p><p>God bless the work of your hand.&nbsp;</p>",
+                "authorName": "Orieey Melchris Attah",
+                "authorBio": "Developer",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/reviewmm-160x154.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+                "authorName": "Abanoub S.",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "authorName": "Suffian A.",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>\"Grandiose!!!! Excellent free website maker - testing under an hour and hooked me. While it is a great alternative for designers who are with short time and produce things for small customers.\"</p>",
+                "authorName": "Alex Higgins",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face4.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              }
+            ]
+          },
+          "title": "WHAT OUR FANTASTIC MUNCHERS SAY",
+          "subtitle": "Our Munchers have Much to say",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials4",
+          "_anchor": "extTestimonials4-b"
+        },
+        {
+          "_styles": {
+            ".feature-title, .description": {
+              "color": "#232323"
+            },
+            ".feature-subtitle": {
+              "color": "#8c8c8c"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/coconuts-wallpaper-gallery-1024x523.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/coconut-png-transparent-4-600x530.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "bookmark",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "update",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title": "Benefits of Coconut",
+          "subtitle": "Our extract is exact with a little more extra",
+          "feature_title1": "Highly Nutritious",
+          "feature_subtitle1": "Minerals Saturated",
+          "feature_text1": "Coconuts are especially high in manganese, which is essential for bone health and the metabolism of carbohydrates, proteins, and cholesterol. They’re also rich in copper and iron, which help form red blood cells.",
+          "feature_title2": "Rich in Antioxidants",
+          "feature_subtitle2": "Reducing Risk of Heart Disease",
+          "feature_text2": "Coconut contains phenolic compounds which are antioxidants that can help protect cells from oxidative damage and death.",
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title4": "Blood Sugar Control",
+          "feature_subtitle4": "Arginine for Pancreatic Cells",
+          "feature_text4": "Coconut has high fiber content that can help slow digestion and improve insulin resistance. It is also low in carbs so it helps stabilize your blood sugar.",
+          "feature_title5": "Regulate Cholesterol Levels",
+          "feature_subtitle5": "Reduces Belly Fat",
+          "feature_text5": "Consuming virgin coconut oil extracted from coconut reduces belly fat. This is especially beneficial because excess belly fat increases your risk of heart disease and diabete.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures8",
+          "_anchor": "extFeatures8-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-sea-palm-trees-sand-wallpaper-preview-970x546.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#011000",
+            "overlay": true,
+            "overlayColor": "#011000",
+            "overlayOpacity": "0.9"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2-128x96.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>No.8, Bamidele Avenue,<br>Osapa London, Lekki, Lagos.<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: order@mouthmunchersfoods.com<br>\nPhone: 08155573039<br>Mobile: 07039371000",
+          "text3": "<strong>Links</strong><br><a class=\"text-success\" href=\"https://mobirise.com/\">Muncher Market</a><br><a class=\"text-success\" href=\"page1.html\">Product Pricing</a><br><a class=\"text-success\" href=\"index.html#msg-box1-h\">Store Outlets</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-o"
+        }
+      ]
+    },
+    "mouthmuncherorder.html": {
+      "settings": {
+        "meta_descr": "Make payment and get mouth muncher foods delivered to you.",
+        "title": "Mouth Muncher Product Order",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000100!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#011000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#009543!important"
+            },
+            ".innerEmail:hover, .innerPhone:hover": {
+              "color": "@primaryColor"
+            },
+            ".btn": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "15px"
+            },
+            "A": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#011000",
+            "socialButtons": "3",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\">Our Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mmpricelist.html#msg-box8-r\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-h\">Store Outlets</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-6\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mouthmuncherorder.html\">Order Now</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2-171x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "phone": "+234 · 703 · 937 · 1000",
+          "email": "order@mouthmunchersfoods.com",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "fa",
+              "link": "https://mobirise.com",
+              "name": "phone",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "FontAwesome"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "name": "mail",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "linecons"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "facebook",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "twitter",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "instagram",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "behance",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "pinterest",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMenu1",
+          "_anchor": "extMenu1-10"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#78b82e"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mm-73-2000x1429.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.9"
+          },
+          "title": "<br>Product Order Form",
+          "text": "<p>Order and Payment Page</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-13"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": false,
+            "formBorder": false,
+            "formColor": "#011000",
+            "formStyle": "light",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mm%20(70)-2000x1429.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f0ffe0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#011000",
+            "overlayOpacity": "0.9"
+          },
+          "title": "Payment Directives",
+          "text": "GT Bank <b>-</b>&nbsp;<b>0465767961</b><br>Mouth Munchers<br><br>Fill the form and make payment to the above account.<br>Please forward prove of payment to <b>+234·815·557·3039 </b>or<br><b>go@mouthmunchersfoods.com<br></b><br>To confirm price of products, <a href=\"mmpricelist.html\">Click here</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#header3-t\" data-toolbar=\"-mbrBtnMove\">VIEW PRICE LIST</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Order Now</a>",
+          "form": {
+            "action": "mouthmuncher8@yahoo.com",
+            "alerts": {
+              "success": "Thanks for ordering our product! The Mouth Munchers Team will response to your order within 2 working days."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "List your Order Here*"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader1",
+          "_anchor": "extHeader1-14",
+          "_styles": {
+            "H3": {
+              "color": "#011000",
+              "font-size": "32px"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-sea-palm-trees-sand-wallpaper-preview-970x546.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#011000",
+            "overlay": true,
+            "overlayColor": "#011000",
+            "overlayOpacity": "0.9"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2-128x96.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>No.8, Bamidele Avenue,<br>Osapa London, Lekki, Lagos.<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: order@mouthmunchersfoods.com<br>\nPhone: 08155573039<br>Mobile: 07039371000",
+          "text3": "<strong>Links</strong><br><a class=\"text-success\" href=\"https://mobirise.com/\">Muncher Market</a><br><a class=\"text-success\" href=\"page1.html\">Product Pricing</a><br><a class=\"text-success\" href=\"index.html#msg-box1-h\">Store Outlets</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-11"
+        }
+      ]
+    },
+    "mmpricelist.html": {
+      "settings": {
+        "meta_descr": "Order a retail or a distributor package of the Mouth Munchers Foods",
+        "title": "Mouth Munchers Price List",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000100!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#011000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#009543!important"
+            },
+            ".innerEmail:hover, .innerPhone:hover": {
+              "color": "@primaryColor"
+            },
+            ".btn": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "15px"
+            },
+            "A": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#011000",
+            "socialButtons": "3",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-x\">Our Products</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mmpricelist.html#msg-box8-r\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-h\">Store Outlets</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-6\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"mouthmuncherorder.html\">Order Now</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2-171x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "phone": "+234 · 703 · 937 · 1000",
+          "email": "order@mouthmunchersfoods.com",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "fa",
+              "link": "https://mobirise.com",
+              "name": "phone",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "FontAwesome"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "name": "mail",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "linecons"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "facebook",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "twitter",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "instagram",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "behance",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "pinterest",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMenu1",
+          "_anchor": "extMenu1-n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#78b82e"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/coconuts-wallpaper-gallery-1024x523.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.8"
+          },
+          "title": "<br>Product Pricing",
+          "text": "<p>Mouth Muncher Market Price</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSearch": true,
+            "rowСount": "15",
+            "colCount": "6",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "Mouth Muncher Product List",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Product<br>Name</th><th>Quantity<br>Per Pack</th><th>Retail<br>Price</th><th>Distributor<br>Unit Price</th><th>Carton<br>Price</th><th>Unit Per<br>Carton</th></tr></thead><tbody><tr><td>Coconut Flakes Sweetened</td><td>150g</td><td>₦800</td><td>₦700</td><td><b>&nbsp;</b>₦16,800</td><td>24</td></tr><tr><td>Coconut Flakes Unsweetened</td><td>150g</td><td>₦800</td><td>₦700</td><td>₦16,800</td><td>24</td></tr><tr><td>Coconut Flakes Sweetened</td><td>100g</td><td>₦600</td><td>₦500</td><td>₦12,000</td><td>24</td></tr><tr><td>Coconut Flakes Unsweetened</td><td>100g</td><td>₦800</td><td>₦500</td><td>₦12,000</td><td>24</td></tr><tr><td>Coconut Poundo</td><td>500g</td><td>₦3,500</td><td>₦3,000</td><td>₦36,000</td><td>12</td></tr><tr><td>Coconut Poundo</td><td>1kg</td><td>&nbsp;₦6,500</td><td>₦5,500</td><td>₦33,000</td><td>6</td></tr><tr><td>Coconut Flour</td><td>500g</td><td>₦3,000</td><td>₦2,500</td><td>₦30,000</td><td>12</td></tr><tr><td>Coconut Flour</td><td>1kg</td><td>₦5,200</td><td>₦4,500</td><td>₦27,000</td><td>6</td></tr><tr><td>Coconut Oil</td><td>500ml</td><td>₦3,300</td><td>₦2,800</td><td>₦33,600</td><td>12</td></tr><tr><td>Coconut Oil</td><td>1 litre</td><td>₦6,000</td><td>₦5,000</td><td>₦60,000</td><td>12</td></tr><tr><td>Coconut Chin-Chin Bucket</td><td>2.2kg</td><td>₦4,500</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Coconut Chin-Chin Pack</td><td>220g</td><td>₦600</td><td>₦500</td><td>₦12,000</td><td>24</td></tr><tr><td>Mixed Nuts</td><td>100g</td><td>₦800</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Mixed Nuts</td><td>200g</td><td>₦1,500</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Mixed Nuts</td><td>500g</td><td>₦3,500</td><td>-</td><td>-</td><td>-</td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-q",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#011000",
+              "font-size": "36px"
+            },
+            "TABLE": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html#extHeader1-14\" data-toolbar=\"-mbrBtnMove\">Retail Order</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"index.html#extForm1-6\" data-toolbar=\"-mbrBtnMove\">Distributor Order</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-18",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "color": "#009543"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "center",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#011000"
+          },
+          "title": "Other Products",
+          "meta": "Only available on order within Lagos",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-t"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSearch": false,
+            "rowСount": "2",
+            "colCount": "3",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0ffe0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "Other Pr",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Product<br>Name</th><th>Quantity<br>Per Pack</th><th>Retail<br>Price</th></tr></thead><tbody><tr><td>Coconut Water</td><td>500ml</td><td>₦500</td></tr><tr><td>Coconut Milk</td><td>500ml</td><td>₦900</td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-s",
+          "_styles": {
+            "THEAD": {
+              "color": "#000000"
+            },
+            "TD": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#f0ffe0"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Order Now</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1a",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/beach-sea-palm-trees-sand-wallpaper-preview-970x546.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#011000",
+            "overlay": true,
+            "overlayColor": "#011000",
+            "overlayOpacity": "0.9"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2-128x96.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>No.8, Bamidele Avenue,<br>Osapa London, Lekki, Lagos.<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: order@mouthmunchersfoods.com<br>\nPhone: 08155573039<br>Mobile: 07039371000",
+          "text3": "<strong>Links</strong><br><a class=\"text-success\" href=\"https://mobirise.com/\">Muncher Market</a><br><a class=\"text-success\" href=\"page1.html\">Product Pricing</a><br><a class=\"text-success\" href=\"index.html#msg-box1-h\">Store Outlets</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-o"
+        }
+      ]
+    }
+  }
+}
